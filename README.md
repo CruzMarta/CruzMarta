@@ -1,16 +1,17 @@
-## Hi there 👋
+### ¡Hola! Soy Marta Cruz 👋
 
-<!--
-**CruzMarta/CruzMarta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de **Desarrollo de Aplicaciones Web** en UNIR.  
+📌 Aprendiendo **Java, MySQL, HTML, CSS y Git**.  
+🚀 Buscando mejorar cada día en desarrollo web.  
+🔗 Encuéntrame en [cjmarta] www.linkedin.com/in/cjmarta  
 
-Here are some ideas to get you started:
+### Tecnologías:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+🌱 Actualmente aprendiendo **Spring Boot y JavaScript**.  
+📩 Contacto: martacj15@gmail.com (mailto:martacj15@gmail.com)
+
