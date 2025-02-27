@@ -3,7 +3,7 @@
 💻 Estudiante de **Desarrollo de Aplicaciones Web** en UNIR.  
 📌 Aprendiendo **Java, MySQL, HTML, CSS y Git**.  
 🚀 Buscando mejorar cada día en desarrollo web.  
-🔗 Encuéntrame en [cjmarta] www.linkedin.com/in/cjmarta  
+🔗 Encuéntrame en www.linkedin.com/in/cjmarta  
 
 ### Tecnologías:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
@@ -13,5 +13,5 @@
 
 ---
 🌱 Actualmente aprendiendo **Spring Boot y JavaScript**.  
-📩 Contacto: martacj15@gmail.com (mailto:martacj15@gmail.com)
+📩 Contacto: martacj15@gmail.com
 
